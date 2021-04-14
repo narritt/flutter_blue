@@ -7,6 +7,10 @@
 </p>
 <br><br>
 
+## Fork description
+
+Fork from 0.7.2. Fixed connected device's RSSI (never used) and Firebase issues (fixed in 0.7.3). Moved to an original master branch due to null-safety (0.8.0).
+
 ## Introduction
 
 FlutterBlue is a bluetooth plugin for [Flutter](http://www.flutter.io), a new mobile SDK to help developers build modern apps for iOS and Android.
